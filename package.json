@@ -19,6 +19,7 @@
   "homepage": "https://github.com/esarnb/YoutubeiHooks#readme",
   "dependencies": {
     "colors": "^1.4.0",
+    "sqlite3": "^5.0.2",
     "youtubei": "^0.0.1-rc.13"
   }
 }
