@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/esarnb/YoutubeiHooks/issues"
   },
-  "homepage": "https://github.com/esarnb/YoutubeiHooks#readme"
+  "homepage": "https://github.com/esarnb/YoutubeiHooks#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "youtubei": "^0.0.1-rc.13"
+  }
 }
